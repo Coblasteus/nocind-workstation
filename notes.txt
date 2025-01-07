@@ -1,1 +1,0 @@
-i want to add mp3 support to nocind workstation and also make any audio you import less fiddley to work with, basically make it feel more like garageband or something like that. also add more synths and stuff like that, so we dont just have the rudimentary crap that is the lmms sounds. basically make the software an open source garageband fl studio monster hybrid
