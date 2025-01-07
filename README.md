@@ -31,8 +31,6 @@ See [Compiling LMMS](https://github.com/LMMS/lmms/wiki/Compiling)
 
 ----------------------
 
-If you are interested in helping me make Nocind Workstation better, like its programming, artwork, testing, writing demo songs, (and improving this README...) or something like that, you're welcome to participate in the development of LMMS!
-
 Information about what you can do and how can be found in the [LMMS wiki](https://github.com/LMMS/lmms/wiki).
 
 Before coding a new big feature, please _always_ [file an issue](https://github.com/Coblasteus/nocind-workstation/issues/new) for your idea and suggestions about your feature and about the intended implementation on GitHub, or ask in one of the tech channels on Discord and wait for replies! Maybe there are different ideas, improvements, or hints, or maybe your feature is not welcome/needed at the moment.
