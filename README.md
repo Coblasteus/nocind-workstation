@@ -34,3 +34,5 @@ See [Compiling LMMS](https://github.com/LMMS/lmms/wiki/Compiling)
 Information about what you can do and how can be found in the [LMMS wiki](https://github.com/LMMS/lmms/wiki).
 
 Before coding a new big feature, please _always_ [file an issue](https://github.com/Coblasteus/nocind-workstation/issues/new) for your idea and suggestions about your feature and about the intended implementation on GitHub, or ask in one of the tech channels on Discord and wait for replies! Maybe there are different ideas, improvements, or hints, or maybe your feature is not welcome/needed at the moment.
+
+And also I don't know much coding, so I'm very beginner level at all this. The most coding I've ever done was creating batch scripts in Windows and knowing basic commands in the Linux terminal. So if you want to help me (free of charge, I got no $$$) you can help us improve the workstation and at least make it work better.
