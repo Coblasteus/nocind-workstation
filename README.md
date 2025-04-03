@@ -10,7 +10,7 @@
 What is Nocind Workstation?
 --------------
 
-Nocind Workstation is an open-source audio workstation designed for music production. It is based on the LMMS project. It includes an advanced Piano Roll, Beat Sequencer, Song Editor, and Mixer for composing, arranging, and mixing music. It comes with 15+ synthesizer plugins by default, along with VST(i) and SoundFont2 support.
+Nocind Workstation is an open-source audio workstation created by Coblasteus and SDCast which is designed for music production. It is based on the LMMS project. It includes an advanced Piano Roll, Beat Sequencer, Song Editor, and Mixer for composing, arranging, and mixing music. It comes with 15+ synthesizer plugins by default, along with VST(i) and SoundFont2 support.
 
 Features
 ---------
